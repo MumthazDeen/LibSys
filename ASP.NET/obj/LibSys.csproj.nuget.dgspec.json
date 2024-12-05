@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\Desktop\\3rd December\\LibSys\\LibSys\\LibSys.csproj": {}
+    "C:\\Users\\DELL\\Documents\\GitHub\\LibSys\\ASP.NET\\LibSys.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\Desktop\\3rd December\\LibSys\\LibSys\\LibSys.csproj": {
+    "C:\\Users\\DELL\\Documents\\GitHub\\LibSys\\ASP.NET\\LibSys.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\Desktop\\3rd December\\LibSys\\LibSys\\LibSys.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\Documents\\GitHub\\LibSys\\ASP.NET\\LibSys.csproj",
         "projectName": "LibSys",
-        "projectPath": "C:\\Users\\DELL\\Desktop\\3rd December\\LibSys\\LibSys\\LibSys.csproj",
+        "projectPath": "C:\\Users\\DELL\\Documents\\GitHub\\LibSys\\ASP.NET\\LibSys.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\Desktop\\3rd December\\LibSys\\LibSys\\obj\\",
+        "outputPath": "C:\\Users\\DELL\\Documents\\GitHub\\LibSys\\ASP.NET\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

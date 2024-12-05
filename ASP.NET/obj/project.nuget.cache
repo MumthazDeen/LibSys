@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Kw1ESGFnYvg=",
+  "dgSpecHash": "FU1C5HU9FeU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL\\Desktop\\3rd December\\LibSys\\LibSys\\LibSys.csproj",
+  "projectFilePath": "C:\\Users\\DELL\\Documents\\GitHub\\LibSys\\ASP.NET\\LibSys.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
